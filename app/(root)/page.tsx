@@ -2,7 +2,7 @@ import HeaderBox from '@/components/ui/HeaderBox';
 import React from 'react'
 
 const Home = () => {
-  const loggedIn = { firstName: "Adrian" };
+  const loggedIn = { firstName: "Gerald" };
 
 
   return (
